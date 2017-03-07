@@ -2,8 +2,8 @@
 title = "Work"
 
 [[projects]]
-    name = "TYPO International Design Talks"
-    folder = "proj-1"
+    name = "Multiplayer Asteroids - Hackathon project"
+    folder = "asterio"
 
 [[projects]]
     name = "City-IN website concept"
