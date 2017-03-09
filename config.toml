@@ -1,7 +1,7 @@
 # Site settings
-baseurl = "http:gseddon.github.io/"
+baseurl = "https:gseddon.github.io/"
 languageCode = "en-us"
-title = "Hugo Artists Theme"
+title = "Gareth Seddon Portfolio"
 theme = "hugo-artists-theme"
 
 [params]
