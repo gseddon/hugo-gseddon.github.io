@@ -1,0 +1,5 @@
+Several years ago when I bought my first motorbike, I was very keen to get a wireless music solution for commuting to university and my part time job. However, as a student I could not afford to buy a commercial solution, so I decided to build my own. I purchased a second hand Sony bluetooth headset from eBay, and set about cannibalising its insides to fit the helmet. All the controls were removed, and I built boards with glove friendly buttons on them to attach in their place. With so much extra room in the helmet to use for the battery, I took a credit card shaped phone battery pack and adapted its charging electronics so that the bluetooth unit could use it. This resulted in incredible battery life, typically around a month between charges, and the quality Sony speakers sounded great. 
+
+This was a great exercise in engineering to constraints, chiefly budgetary, with a highly practical result.
+
+![internal view](img/work/bluetooth/helmetexplained.jpg)
