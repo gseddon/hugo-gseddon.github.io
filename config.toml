@@ -1,9 +1,10 @@
 # Site settings
-baseurl = "https://gseddon.github.io/"
+# baseurl = "https://gseddon.github.io/"
+baseurl = "/"
 languageCode = "en-us"
 title = "Gareth Seddon Portfolio"
 theme = "hugo-artists-theme"
-
+uglyurls = true
 [params]
 
 	# You can use Markdown syntax for urls [text](//url.to/source) for
