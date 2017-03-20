@@ -44,7 +44,7 @@ uglyurls = true
 	# Replace the 'avatar.jpg' under 'static/img' with your own image.
 	[params.about]
 		title = "About me"
-		bio = "I have been able to involve myself in a diverse collection of projects over the years, and this is a collection of some of my favourites. Covering personal, work and university projects, working solo or contributing to a team, these have helped shape my interests and pick up invaluable life skills. They are often centered around music, one of my passions, but regardless of the objective, whether it's implemented in  software, hardware, or both, I enjoy a good challenge, and will work tirelessly to the end result. <br><br> Currently in my final year of a Master of Electrical Engineering, I am looking for an opportunity to be part of a diverse team creating solutions to complex engineering problems."
+		bio = "I have been able to involve myself in a diverse collection of projects over the years, and this is a collection of some of my favourites. Covering personal, work and university projects, working solo or contributing to a team, these have helped shape my interests and pick up invaluable skills. They are often centered around music, one of my passions, but regardless of the objective, whether it's implemented in  software, hardware, or both, I enjoy a good challenge, and will work tirelessly to the end result. <br><br> Currently in my final year of a Master of Electrical Engineering, I am looking for an opportunity to be part of a diverse team creating solutions to complex engineering problems."
 
 
 

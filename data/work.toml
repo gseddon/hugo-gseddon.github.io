@@ -10,8 +10,8 @@ title = "Projects"
     folder = "rtlsdr"
 
 [[projects]]
-    name = "Multiplayer Asteroids - Hackathon project"
-    folder = "asterio"
+    name = "Gameboy tribute"
+    folder = "gameboy"
 
 [[projects]]
     name = "Marscraft - NASA Spacehack"
