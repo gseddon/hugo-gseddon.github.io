@@ -2,9 +2,10 @@
 # baseurl = "https://gseddon.github.io/"
 baseurl = "/"
 languageCode = "en-us"
-title = "Gareth Seddon Portfolio"
+title = "Gareth Seddon"
 theme = "hugo-artists-theme"
 uglyurls = true
+googleAnalytics = "UA-96318126-1"
 [params]
 
 	# You can use Markdown syntax for urls [text](//url.to/source) for
@@ -36,7 +37,7 @@ uglyurls = true
 	# But keep the original filename!
 	[params.header]
 		title = "Gareth Seddon"
-		shortBio = "Electrical Engineer // Developer // Tinkerer"
+		shortBio = "Software Engineer // Tinkerer // Gamer"
 
 
 	# About section
@@ -44,8 +45,7 @@ uglyurls = true
 	# Replace the 'avatar.jpg' under 'static/img' with your own image.
 	[params.about]
 		title = "About me"
-		bio = "I have been able to involve myself in a diverse collection of projects over the years, and this is a collection of some of my favourites. Covering personal, work and university projects, working solo or contributing to a team, these have helped shape my interests and pick up invaluable skills. They are often centered around music, one of my passions, but regardless of the objective, whether it's implemented in  software, hardware, or both, I enjoy a good challenge, and will work tirelessly to the end result. <br><br> Currently in my final year of a Master of Electrical Engineering, I am looking for an opportunity to be part of a diverse team creating solutions to complex engineering problems."
-
+    bio = "Software engineer specialising in functional and concurrent programming. I have experience working on telco scale big data pipelines, handling upwards of 10k events/second, with an emphasis on extremely high availability. A relentless tinkerer, I love to automate things, whether it's business processes, programming and design tools, or the technology in my home. Experience in a range of sectors, including corporate, start-ups, and academia. Strong believer in continuous self-education, currently learning more about domain driven design and its applications in functional programming paradigms."
 
 
 	# Contact secion
@@ -55,9 +55,10 @@ uglyurls = true
 		# The following social network icons are available:
 		# 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin'
 		# 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
-		[[params.contact.social]]
-			icon = "github"
-			link = "//bitbucket.org/gareth_seddon/"
+
+		# [[params.contact.social]]
+		# 	icon = "github"
+		# 	link = "//bitbucket.org/gareth_seddon/"
 
 		[[params.contact.social]]
 			icon = "linkedin"

@@ -2,6 +2,14 @@
 title = "Projects"
 
 [[projects]]
+    name = "Nand2Tetris"
+    folder = "nand2tetris"
+
+[[projects]]
+    name = "Google Music Interface"
+    folder = "gmusic"
+
+[[projects]]
     name = "Melbourne Spring Fashion Week iOS App"
     folder = "msfw"
 
@@ -9,13 +17,13 @@ title = "Projects"
     name = "Final year project - Software Defined Radio"
     folder = "rtlsdr"
 
-[[projects]]
-    name = "Gameboy tribute"
-    folder = "gameboy"
+# [[projects]]
+#     name = "Gameboy tribute"
+#     folder = "gameboy"
 
-[[projects]]
-    name = "Marscraft - NASA Spacehack"
-    folder = "marscraft"
+# [[projects]]
+#     name = "Marscraft - NASA Spacehack"
+#     folder = "marscraft"
 
 [[projects]]
     name = "Party Lights"
@@ -25,12 +33,12 @@ title = "Projects"
     name = "Integrated Motorbike Bluetooth Headset"
     folder = "bluetooth"
 
-[[projects]]
-    name = "IBM Robotics Project"
-    folder = "naomi"
+# [[projects]]
+#     name = "IBM Robotics Project"
+#     folder = "naomi"
 
-[[projects]]
-    name = "FrogID Android app"
-    folder = "frogID"
+# [[projects]]
+#     name = "FrogID Android app"
+#     folder = "frogID"
 
 

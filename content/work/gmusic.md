@@ -1,0 +1,1 @@
+Created a lightweight desktop interface for google music. Very simple and includes builtin caching. This was an experiment to learn about building native GUIs and understand python threading and queueing better.
